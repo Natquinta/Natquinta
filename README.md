@@ -3,9 +3,6 @@
 <!--
 **Natquinta/Natquinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-
 - 💬 About me:
   I am an experienced professional in the culinary world who has decided to shift toward data analysis. With a strong interest in technology and an analytical mind, I have acquired new skills in tools such as Python, SQL, and Tableau, seeking to apply this knowledge to generate insights and make informed decisions.
 
